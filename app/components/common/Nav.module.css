@@ -1,0 +1,7 @@
+.link {
+  display: inline-block;
+  margin-left: 10px;
+}
+.link:first-of-type {
+  margin-left: 0;
+}
